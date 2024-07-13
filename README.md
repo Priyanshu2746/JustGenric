@@ -15,7 +15,7 @@ JustGenric is a comprehensive online platform designed to facilitate seamless bo
 
 ## Features
 
-- User registration and authenticatio
+- User registration and authentication
 - Browse and book appointments with doctors
 - Admin panel for managing appointments and doctors
 - Real-time messaging between patients and administrators
