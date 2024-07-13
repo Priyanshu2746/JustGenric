@@ -1,4 +1,4 @@
-# JustGenric
+# JustGenri
 
 JustGenric is a comprehensive online platform designed to facilitate seamless booking of doctor's appointments. This MERN stack application aims to enhance accessibility, streamline the appointment process, and improve communication between patients and healthcare providers.
 
